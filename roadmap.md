@@ -10,11 +10,11 @@
 
 ## Pathway
 
-1. [ ] **Initialize the authentication laboratory**
+1. [x] **Initialize the authentication laboratory**
    1. [x] Create a single Vite+ repository containing a minimal React frontend and Hono backend.
    2. [x] Build a simple interface for sending requests and displaying responses.
-   3. [ ] Experiment with HTTP methods, headers, status codes, and request/response bodies using browser DevTools.
-   4. [ ] Explore HTTP statelessness, cookies, redirects, and the purpose of HTTPS through small experiments.
+   3. [x] Experiment with HTTP methods, headers, status codes, and request/response bodies using browser DevTools.
+   4. [x] Explore HTTP statelessness, cookies, redirects, and the purpose of HTTPS through small experiments.
 
 2. [ ] **Build password authentication and sessions**
    1. [ ] Create a registration endpoint, introducing the distinctions between identity, authentication, and authorization.
